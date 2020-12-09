@@ -30,6 +30,7 @@ fp-info-cache
 
 # Images
 *.png
+*.svg
 
 # Outputs
 *.zip
